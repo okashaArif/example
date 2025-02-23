@@ -34,8 +34,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/okashaArif/address"
-	"github.com/okashaArif/tx"
+	"github.com/bitgoin/address"
+	"github.com/bitgoin/tx"
 )
 
 func TestSend(t *testing.T) {
